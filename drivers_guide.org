@@ -1,0 +1,293 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
+#+TITLE: HCE Driver's Guide
+#+AUTHOR: Janus Developmental Services — Transportation
+#+DATE: 2026
+
+* Before Your Shift
+
+** Getting Your Assignment
+- Check the schedule for your bus number.
+- Retrieve the corresponding radio and keys.
+- Turn on the radio and confirm you are on a private channel.
+
+** Signing In
+- Get a tablet from the charging station.
+- Sign into Spare Driver on the tablet.
+- Sign into HCM TOGO.
+
+** Fare Box Checkout
+- Sign out a fare box.
+- Confirm you have all necessary paperwork: cleaning form, incident reports, and fare box tickets.
+
+** Pre-Trip Inspection
+- Complete your pre-trip inspection before departing.
+- See [[*Know Your Bus][Know Your Bus]] for vehicle-specific locations of emergency equipment, door controls, and fluid check points.
+
+** Know Your Bus
+#+BEGIN_QUOTE
+Vehicle-specific photo guides (with callouts) coming soon. Each bus model will have its own section covering door operation, emergency brake location, fluid check points, and equipment storage.
+#+END_QUOTE
+
+* Fares and Payments
+
+** How to Tell if a Rider is Cash or eWallet
+Open the rider's trip card in Spare Driver. The payment method is displayed on the trip detail screen. Cash riders must pay with exact change. eWallet riders have their fare deducted automatically — do not collect cash from them unless they are making a top-off payment.
+
+** Collecting Fares
+- Passengers must have exact change. The standard fare is $3.00.
+- If a passenger does not have exact change, they may make a *donation* of any amount.
+- Document all donations on the fare box ticket.
+
+** eWallet Top-Offs
+If a rider gives you cash or a check to add to their eWallet balance:
+1. Accept the payment and note the amount.
+2. Record it on the fare box ticket.
+3. Report it to dispatch so the credit can be applied.
+
+Do not attempt to apply the top-off yourself in Spare.
+
+** Companions and Caregivers
+#+BEGIN_QUOTE
+Policy to be documented. Placeholder — confirm with management whether companions/caregivers ride free or pay standard fare.
+#+END_QUOTE
+
+** Children
+Riders under the age of 11 ride free when accompanied by a paying adult.
+
+* During Your Shift
+
+** Picking Up Janus Clients at Janus
+#+BEGIN_QUOTE
+Specific protocol to be documented.
+#+END_QUOTE
+
+** No-Show Procedure
+#+BEGIN_QUOTE
+Specific steps to be documented.
+#+END_QUOTE
+
+** Unruly or Upset Passengers
+- Contact management immediately for direction.
+- Drivers may *not* expel passengers from the bus.
+- Maintain a professional demeanor at all times.
+
+** Radio Etiquette and HIPAA
+- Always communicate on a private channel.
+- Do not discuss HIPAA-sensitive information or personal passenger details over the radio.
+- Refrain from inappropriate or controversial radio content while passengers are on board.
+
+* Mobility Assistance and Accommodations
+
+** Scope of Driver Assistance
+Drivers are expected to provide reasonable assistance to riders with limited mobility. This includes:
+- Deploying and stowing the lift or ramp.
+- Assisting riders to and from their seat.
+- Securing wheelchairs and mobility devices per securement procedures.
+
+Drivers are *not* expected to provide attendant-level services. This includes personal care, medical assistance, or physical support beyond what is needed to safely board and exit the vehicle. If a rider requires attendant-level care, they should travel with a personal care attendant.
+
+** Reasonable Accommodations
+#+BEGIN_QUOTE
+Reasonable accommodations policy to be documented — consult with management and ADA guidelines.
+#+END_QUOTE
+
+** Wheelchair Securement
+#+BEGIN_QUOTE
+Securement procedure to be documented. See also: [[*Lift Operations][Lift Operations]].
+#+END_QUOTE
+
+* Forms and Reporting
+
+** Accidents
+Any accident, no matter how minor, must be reported to management immediately. Complete an accident report before the end of your shift.
+
+** Incident Reports
+Complete an incident report for any unusual event involving a passenger, vehicle, or third party.
+
+** Forgot to Clock In
+#+BEGIN_QUOTE
+Steps to be documented — contact dispatch or complete a specific form?
+#+END_QUOTE
+
+** Reporting a Maintenance Issue
+#+BEGIN_QUOTE
+Steps to be documented.
+#+END_QUOTE
+
+** Trip Notes and Tip Notes in Spare
+#+BEGIN_QUOTE
+Where to find trip notes and how to add tip notes in Spare Driver — to be documented.
+#+END_QUOTE
+
+** Incorrect PIN
+#+BEGIN_QUOTE
+How to report an incorrect rider PIN — to be documented.
+#+END_QUOTE
+
+** Fare Receipts
+The fare box ticket is the primary record of all cash collected during your shift. Accuracy and legibility directly affect the reconciliation process — illegible or incomplete entries create errors that take significant time to resolve.
+
+For each transaction, record:
+- *Date* — the correct date of service. This is critical for reconciliation.
+- *Rider name* — first initial and full last name at minimum (e.g., /J. Smith/). Write clearly.
+- *Amount collected* — the exact amount received.
+- *Top-offs* — write *TO* next to the entry to indicate an eWallet top-off payment.
+
+If you make a mistake, draw a single line through the entry and initial it. Do not scribble out or obscure the original — the crossed-out entry must still be readable.
+
+When your shift ends, see [[*Fare Box Turnover][Fare Box Turnover]] for how to submit the ticket.
+
+* End of Shift
+
+** Post-Trip Inspection
+Complete your post-trip inspection before signing out.
+
+** Fare Box Turnover
+- If money was collected: place the fare box ticket into the fare box and put it in the locker.
+- If no money was collected: place the ticket in the designated bowl. Put the box back in the stack.
+
+** Sign-Out
+- Make sure the bus has at least a half tank of fuel. See [[*Fueling Procedures][Fueling Procedures]] if needed.
+- Turn off the communication radio.
+- Sign out of Spare Driver.
+- Plug in the radio, tablet, and hang up the bus keys.
+
+* Fueling Procedures
+
+** Fleet Cards
+Two fleet cards are available for fueling:
+
+- *Country Mark* (Noblesville location only) — for use at the Country Mark station in Noblesville.
+- *Circle K* — accepted anywhere Circle K operates; a discount applies at Circle K locations.
+
+Your personal gas code is assigned at orientation. If you do not have your code or have forgotten it, contact Teresa or Ben.
+
+When fueling, you will be prompted to enter the current mileage at the pump. Use the odometer reading at the time of fueling.
+
+** End-of-Shift Fueling
+Buses must be returned with at least a half tank of fuel. If fueling is needed at the end of your shift, use the nearest available station with the appropriate fleet card and your personal gas code.
+
+** Mid-Shift Fueling
+If the fuel level falls below *3/16 of a tank* during your shift:
+1. Contact dispatch and get approval to fuel.
+2. Proceed to the nearest available station.
+3. Use the fleet card and your personal gas code.
+
+Do not fuel mid-shift without dispatch approval.
+
+* Ongoing Maintenance Responsibilities
+
+| Task                    | Frequency        | Notes                                         |
+|-------------------------+------------------+-----------------------------------------------|
+| Oil change request      | 500 miles before | Submit when mileage reaches sticker minus 500 |
+| Bus cleaning form       | Bi-weekly        |                                               |
+| Fire extinguisher check | Monthly (1st)    | Date and initial on the extinguisher          |
+
+See also [[*Maintenance Memos][Maintenance Memos]] for issued guidance on specific maintenance topics.
+
+* Lift Operations
+
+** Troubleshooting the Lift
+#+BEGIN_QUOTE
+Lift troubleshooting guide to be built with Jeff's input.
+#+END_QUOTE
+
+** Manual Lift Crank Procedure
+#+BEGIN_QUOTE
+Manual crank procedure to be documented.
+#+END_QUOTE
+
+* Disaster Recovery
+
+** Tablet Failure
+If your tablet loses power or stops working mid-shift:
+
+1. Download *Spare Driver* from the App Store (iPhone) or Play Store (Android) on your personal phone.
+2. Log in with your normal Spare credentials.
+3. Continue your route — the app works identically to the tablet.
+
+Contact dispatch to let them know you have switched to your phone.
+
+** Spare System Outage
+If Spare goes down entirely, use the Disaster Recovery Driver Interface to view your route manifest:
+
+1. Go to: [[https://driver.us.sparedr.com/][https://driver.us.sparedr.com/]]
+2. *Organization Key:* ~hce-janus~
+3. *Username:* your normal Spare login — *must be all lowercase*
+4. *Password:* ~08250~
+
+Once logged in, you can view your upcoming pickups and drop-offs, break times, and scheduled PU/DO times. Tap the blue link on any trip to open Google Maps navigation to that stop.
+
+#+BEGIN_QUOTE
+Additional interface walkthrough to be added after review with active driver login.
+#+END_QUOTE
+
+* Policies
+
+** Breaks
+<<policy-breaks>>
+Drivers receive a 30-minute unpaid lunch break and clock out accordingly. Your route schedule in Spare may also include 20-minute gaps between trips. These gaps are a normal part of route planning and provide built-in flexibility in your schedule. Use the time as available — trips may be assigned to fill gaps depending on service demand. Dispatch will notify you of any changes to your schedule.
+
+** Idling
+<<policy-idling>>
+When the outside temperature is between 45°F and 75°F, do not idle the vehicle for longer than 15 minutes at a time. Be aware of high-idling periods in your shift, such as after your pre-trip or during lunch, and minimize idling during those times.
+
+/Issued November 4, 2025/
+
+** Dress Code
+<<policy-dress-code>>
+Company uniforms are no longer issued to new employees. The following dress code applies to all drivers:
+
+- Company shirts previously issued, or any Janus-branded clothing, may be worn.
+- Collared shirts and t-shirts are permitted, provided a professional and neutral appearance is maintained.
+- Khaki, cargo-style pants, or jeans are permitted.
+- Shorts are permitted year-round, provided they do not interfere with completing your shift.
+- Shoes, sneakers, and boots are permitted. No open-toed shoes.
+- Hats may be worn if they do not obstruct the driver's view or interfere with vehicle operation.
+- All employees are expected to maintain good hygiene and be neat in appearance.
+- Attire containing profanity, vulgarity, or politically charged messaging is strictly prohibited.
+
+/Issued February 12, 2026/
+
+** Time Off Requests
+<<policy-time-off>>
+Most trips are assigned to routes beginning 8 days before the scheduled day of service. Requests for time off within that 8-day window are more difficult to approve and can disrupt service to riders.
+
+- Provide as much advance notice as possible when requesting time off.
+- If your request falls within the 8-day window, contact the manager on duty in addition to submitting the request in Accupay.
+
+/Issued November 4, 2025/
+
+** Maintenance Memos
+<<policy-memos>>
+Issued memos from transportation management are listed below for reference.
+
+| Date              | Subject                       |
+|-------------------+-------------------------------|
+| November 4, 2025  | Vehicle Idling Policy         |
+| November 4, 2025  | Late Time Off Requests        |
+| February 12, 2026 | Uniform Policy / Dress Code   |
+| TBD               | Hydraulic Lines               |
+| TBD               | Lift Bolts                    |
+
+* Contacts and Resources
+
+** Key Numbers
+| Name             | Role                        | Number           |
+|------------------+-----------------------------+------------------|
+| Dispatch         | Landline (sick calls, radio issues) | (317) 776-3226 |
+| Ben Platz        | Senior Transportation Manager | (317) 453-9407 |
+| Teresa Franklin  | Transportation               | (317) 457-9286 |
+
+Leave a voicemail at the dispatch landline if you need to call in sick or your radio is not working.
+
+** Downloading Spare Driver
+- *iPhone:* Search "Spare Driver" in the App Store
+- *Android:* Search "Spare Driver" in the Play Store
+
+Log in with the credentials provided at orientation.
+
+** Downloading HCM TOGO
+#+BEGIN_QUOTE
+App store link and login steps to be documented.
+#+END_QUOTE
