@@ -1,0 +1,40 @@
+name: Publish Org to HTML
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert_org:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Emacs
+        uses: purcell/setup-emacs@master
+        with:
+          version: snapshot
+
+      - name: Export Org to HTML
+        run: |
+          emacs --batch \
+            --eval "(require 'org)" \
+            --eval "(require 'ox-html)" \
+            --eval "(setq org-safe-remote-resources '(\"https://fniessen\\.github\\.io/\"))" \
+            --eval "(find-file \"drivers_guide.org\")" \
+            --eval "(org-html-export-to-html nil)"
+
+      - name: Commit and push HTML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "drivers_guide.html"
+          git diff --cached --quiet || git commit -m "Auto-export: update HTML from Org source"
+          git push
