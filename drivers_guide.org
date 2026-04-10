@@ -376,7 +376,7 @@ Recent updates and notices from transportation management. Items here are incorp
 
 *Do not update Spare Driver to v2.75.* A bug has been identified that affects fare type selection — all options display as =$3.00= and the fare type field appears blank, making it impossible to correctly assign fare types to trips. Spare is rolling back the update, but app store review timelines may delay the fix.
 
-*If you have already updated to v2.75*, bring your tablet to dispatch immediately. A rollback APK is available for Android devices that restores the previous stable version. Do not attempt to install it yourself.
+*If you have already updated to v2.75*, refer to the fare type selection figure in [[*How to Tell if a Rider is Cash or eWallet][Section 2.1]] to understand the placement of the missing labels. From top to bottom: Billed Through Account, Cash, eWallet.
 
 ** Spare Driver App v2.75 — April 2026
 /Posted April 10, 2026/
