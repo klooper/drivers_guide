@@ -334,7 +334,19 @@ App store link and login steps to be documented.
 
 Recent updates and notices from transportation management. Items here are incorporated into the relevant guide sections on a rolling basis.
 
-** Spare Driver Update — April 2026
-#+BEGIN_QUOTE
-Details to be added.
-#+END_QUOTE
+** Spare Driver App v2.75 — April 2026
+
+A new version of Spare Driver (v2.75) is available. *This update must be triggered manually.*
+
+To update:
+1. Open the Play Store on your tablet
+2. Search for *Spare Driver*
+3. Tap *Update* — if it says *Open*, you are already on the newest version
+4. If you need help updating your tablet, bring it to dispatch
+
+*What's new in v2.75:*
+- *Rider-to-driver location sharing* — once you arrive at a pickup, you can see the rider's location on the map if they are using the Spare Rider app. Riders can opt out at any time.
+- *Google Maps traffic layer* — live traffic conditions now display during navigation (green/yellow/red).
+- *Urgent inspection failure alerts* — if your pre-trip inspection flags a critical item, a screen will display the specific failed items.
+- Stability improvements and crash fixes
+- Faster performance and reduced battery consumption
