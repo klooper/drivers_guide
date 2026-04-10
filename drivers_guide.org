@@ -118,11 +118,11 @@ flowchart TD
     E -->|No| H["Was there disabling damage\nto any vehicle?"]
     E -->|Yes| F["Can the operator's performance be completely\ndiscounted as a contributing factor?"]
     F -->|Yes| NT2["No test required — document"]
-    F -->|No| TASAP2["Test ASAP"]
+    F -->|No| TASAP2["Test ASAP\nDriver + any SS employee\nwho could have contributed"]
     H -->|Yes| F2["Can the operator's performance be completely\ndiscounted as a contributing factor?"]
     H -->|No| NT4["No test required — document"]
     F2 -->|Yes| NT5["No test required — document"]
-    F2 -->|No| TASAP4["Test ASAP"]
+    F2 -->|No| TASAP4["Test ASAP\nDriver + any SS employee\nwho could have contributed"]
 </div>
 #+END_EXPORT
 
