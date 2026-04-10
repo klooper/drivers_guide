@@ -113,7 +113,7 @@ flowchart TD
     B -->|Yes| C["Was the occurrence associated with\nthe manner of operation?"]
     C -->|No| NT1
     C -->|Yes| D["Was there a fatality?"]
-    D -->|Yes| TASAP1["Test ASAP\nDriver + any SS employee\nwho could have contributed"]
+    D -->|Yes| TASAP1["Test ASAP\nDriver + any SS employee\nwho could have contributed\n "]
     D -->|No| E["Was anyone immediately transported\nto a medical treatment facility?"]
     E -->|No| H["Was there disabling damage\nto any vehicle?"]
     E -->|Yes| F["Can the operator's performance be completely\ndiscounted as a contributing factor?"]
