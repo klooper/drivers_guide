@@ -329,3 +329,12 @@ Log in with the credentials provided at orientation.
 #+BEGIN_QUOTE
 App store link and login steps to be documented.
 #+END_QUOTE
+
+* What's New
+
+Recent updates and notices from transportation management. Items here are incorporated into the relevant guide sections on a rolling basis.
+
+** Spare Driver Update — April 2026
+#+BEGIN_QUOTE
+Details to be added.
+#+END_QUOTE
