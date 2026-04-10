@@ -362,12 +362,12 @@ App store link and login steps to be documented.
 
 Recent updates and notices from transportation management. Items here are incorporated into the relevant guide sections on a rolling basis.
 
-** ⚠ DO NOT UPDATE Spare Driver — April 10, 2026
+** ⚠ Spare Driver v2.75 Bug — Rollback Required — April 10, 2026
 /Posted April 10, 2026/
 
-*Do not update Spare Driver to v2.75 at this time.* A bug has been identified in the new version that affects fare type selection. When attempting to change the fare type, all options display as =$3.00= and the fare type field appears blank. This makes it impossible to correctly assign fare types to trips.
+*Do not update Spare Driver to v2.75.* A bug has been identified that affects fare type selection — all options display as =$3.00= and the fare type field appears blank, making it impossible to correctly assign fare types to trips. Spare is rolling back the update, but app store review timelines may delay the fix.
 
-Hold off on updating until a bug fix is released. If you have already updated, contact dispatch immediately.
+*If you have already updated to v2.75*, bring your tablet to dispatch immediately. A rollback APK is available for Android devices that restores the previous stable version. Do not attempt to install it yourself.
 
 ** Spare Driver App v2.75 — April 2026
 /Posted April 10, 2026/
