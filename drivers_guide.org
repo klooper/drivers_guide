@@ -47,8 +47,6 @@ If a rider gives you cash or a check to add to their eWallet balance:
 2. Record it on the fare box ticket.
 3. Report it to dispatch so the credit can be applied.
 
-Do not attempt to apply the top-off yourself in Spare.
-
 ** Companions and Caregivers
 #+BEGIN_QUOTE
 Policy to be documented. Placeholder — confirm with management whether companions/caregivers ride free or pay standard fare.
